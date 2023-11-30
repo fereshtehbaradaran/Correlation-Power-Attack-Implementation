@@ -9,9 +9,9 @@ Correlation Power Analysis (CPA) is a form of side-channel attack that exploits 
 ## Implementation
 
 ### Software and Tools Used:
-- Python programming language
-- NumPy library for numerical computations
-- Struct and Matplotlib libraries for data processing and visualization
+- `Python` programming language
+- `NumPy` library for numerical computations
+- `Struct` and `Matplotlib` libraries for data processing and visualization
 
 
 
